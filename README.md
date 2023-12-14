@@ -1,7 +1,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romario-alves-6272ab280)
 
-# jogos
+# jogo da cobra
 portfolio de jogos em python
 
 """
